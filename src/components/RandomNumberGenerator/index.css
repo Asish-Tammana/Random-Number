@@ -1,0 +1,30 @@
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-card {
+  padding: 30px;
+  background-color: white;
+  box-shadow: 5px;
+  border: 2px solid #e4ebf3;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.heading {
+  color: #0b69ff;
+}
+
+.gen-btn {
+  color: #ffffff;
+  background-color: #0b69ff;
+  padding: 10px;
+  border-width: 0px;
+  border-radius: 5px;
+}
